@@ -3,5 +3,6 @@ This project's paper focuses on single-hop Wireless Sensor Networks (WSNs), in p
 
 # Examples of network topologies
 ![Random network](experimets_images/network_for_deadlock_analysis.png)
-
+*Figure 1: Random network topology.*
 ![Grid network](experimets_images/partial_graph.png)
+*Figure 2: Grid network topology.*
